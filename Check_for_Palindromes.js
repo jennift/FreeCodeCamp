@@ -18,5 +18,3 @@ function palindrome(str) {
   }
   
 }
-
-palindrome("_eye");

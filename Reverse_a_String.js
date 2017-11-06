@@ -6,5 +6,3 @@ function reverseString(str) {
   finalString = finalString.join("");
   return finalString;
 }
-
-reverseString("Greetings from Earth");
